@@ -1,7 +1,6 @@
 
 # 🚀 K-Defense Global Expansion Strategy Platform
 
-![K-Defense](assets/banner.png)
 
 데이터 기반 분석을 통해 **한국 방산 기업의 글로벌 진출 전략**을 도출하는 프로젝트입니다.  
 글로벌 방산 시장 데이터를 수집하고 분석하여 **권역별 수요를 파악하고 기업별 전략을 제안**합니다.
@@ -25,7 +24,6 @@
 
 # 🧭 Project Workflow
 
-![workflow](assets/workflow.png)
 
 DATA → SELECTION → ANALYSIS → STRATEGY → WEB
 
@@ -33,7 +31,6 @@ DATA → SELECTION → ANALYSIS → STRATEGY → WEB
 
 # 📂 1. Data Collection
 
-![data](assets/data.png)
 
 수집 데이터
 
@@ -55,7 +52,6 @@ DATA → SELECTION → ANALYSIS → STRATEGY → WEB
 | Group 2 | 신흥 방산 수요 시장 |
 | Group 3 | 신규 시장 |
 
-![market](assets/market.png)
 
 ---
 
@@ -68,8 +64,6 @@ DATA → SELECTION → ANALYSIS → STRATEGY → WEB
 | Eastern Europe | K9 Self-Propelled Artillery / K2 Tank |
 | Middle East | Drone / Missile |
 | South America | Jet / Aircraft |
-
-![analysis](assets/analysis.png)
 
 ---
 
@@ -84,8 +78,6 @@ DATA → SELECTION → ANALYSIS → STRATEGY → WEB
 | Middle East | LIG Nex1 |
 | South America | Korea Aerospace Industries |
 
-![strategy](assets/strategy.png)
-
 ---
 
 # 💻 5. Web Platform
@@ -98,8 +90,6 @@ Features
 - 국가별 방산 수요 시각화
 - 기업-시장 매칭 전략
 - 데이터 기반 전략 제안
-
-![web](assets/web.png)
 
 ---
 
