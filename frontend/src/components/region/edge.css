@@ -1,0 +1,32 @@
+.edge-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.edge-card {
+  background: #1e1e2d;
+  border: 1px solid #2a2a3d;
+  border-radius: 12px;
+  padding: 18px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.edge-card:hover {
+  border-color: #34c38f;
+  transform: translateY(-4px);
+}
+
+.edge-card .iso {
+  font-size: 22px;
+  font-weight: 700;
+  color: #34c38f;
+}
+
+.edge-card .desc {
+  font-size: 13px;
+  color: #a0a0b0;
+  margin-top: 6px;
+}
