@@ -151,7 +151,3 @@ docs/reference/k_방산 글로벌화 전략 (박사님과 싱싱미역줄기들)
 - 양예진
 - 조성진
 - 조준형
-
----
-
-⭐ If you find this project interesting, please consider giving it a star!
